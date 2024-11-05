@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="jinpro",  # Must be unique on PyPI
-    version="1.0.2",
+    version="1.0.3",
     description="A component preprocessor for Flask/Jinja that mimics React/Vue-style components",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",

@@ -2,7 +2,7 @@ LICENSE
 README.md
 setup.py
 jinpro/__init__.py
-jinpro/jinpro.py
+jinpro/main.py
 jinpro.egg-info/PKG-INFO
 jinpro.egg-info/SOURCES.txt
 jinpro.egg-info/dependency_links.txt

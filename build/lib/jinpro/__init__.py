@@ -1,1 +1,1 @@
-from jinpro import JinjaProcessor
+from main import JinjaProcessor

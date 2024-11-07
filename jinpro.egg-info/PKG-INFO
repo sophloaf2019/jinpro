@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: jinpro
-Version: 1.0.4
+Version: 1.0.5
 Summary: A component preprocessor for Flask/Jinja that mimics React/Vue-style components
 Home-page: https://github.com/sophloaf2019/jinpro
 Author: Sophia Turner
